@@ -1,0 +1,28 @@
+name: Evolution
+favicon: null
+layout_spectrum: 0.6905440152622759
+typography_spectrum: 0.3172076907940209
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3827871913090348
+  lightness: 0.6636106714140624
+  saturation: 0.15607789694331586
+  rhythmicContrast: 0.9954050839878619
+purpose: []
